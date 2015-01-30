@@ -6,9 +6,9 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		Yen Peng
 tagline:	'blog'
-description:	'My personal blog.'
+description:	'My experimental blog.'
 url:		http://camporez.com
 
 author:
