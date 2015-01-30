@@ -13,13 +13,13 @@ url:		http://yenpeng.github.io
 
 author:
   name:		'Yen Peng'
-  url:		https://www.facebook.com/iamyenpeng
+  url:		http://yenpeng.github.io
 
 paginate:	5
 
 # Custom vars
 icon:		/assets/images/icon.png
-cover:		/assets/images/cover.jpg
+cover:		/assets/images/eva.jpg
 
 social:
   - icon:	twitter
@@ -46,7 +46,5 @@ menu:
     url:	/about
     
 copyright:
-  author:	Camporez
-  url:		http://camporez.com
-  type_title:	Some rights reserved
-  type_url:	http://creativecommons.org/licenses/by-nc/2.5
+  author:	Yen Peng
+  url:		http://yenpeng.github.io
