@@ -7,13 +7,13 @@ permalink:	/blog/:title
 
 # Setup
 title:		Yen Peng
-tagline:	'blog'
-description:	'My experimental blog.'
-url:		http://camporez.com
+tagline:	'Site'
+description:	'My experimental website.'
+url:		http://yenpeng.github.io
 
 author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+  name:		'Yen Peng'
+  url:		http://yenpeng.github.io
 
 paginate:	5
 
