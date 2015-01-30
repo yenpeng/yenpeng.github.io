@@ -18,22 +18,21 @@ author:
 paginate:	5
 
 # Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/boat.jpg
+
 social:
-  - icon: /assets/images/fb.png
+  - icon: facebook
     url:  https://www.facebook.com/iamyenpeng
     desc: Add me on Facebook
 
-  - icon: /assets/images/linkedin.png
+  - icon: linkedin
     url:  https://my.linkedin.com/in/yenpenglee
     desc: View me on Linkedin
 
   - icon: github
     url:  https://github.com/yenpeng
     desc: Visit me on github
-
-icon:		/assets/images/icon.png
-cover:		/assets/images/boat.jpg
-
 
     
 menu:
