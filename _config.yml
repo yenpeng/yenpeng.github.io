@@ -9,16 +9,16 @@ permalink:	/blog/:title
 title:		Yen Peng
 tagline:	'Site'
 description:	'My experimental website.'
-url:		http://yenpeng.github.io
+url:		https://www.facebook.com/iamyenpeng
 
 author:
   name:		'Yen Peng'
-  url:		http://yenpeng.github.io
+  url:		https://www.facebook.com/iamyenpeng
 
 paginate:	5
 
 # Custom vars
-icon:		/assets/images/yenpeng.jpg
+icon:		/assets/images/icon.png
 cover:		/assets/images/boat.jpg
 
 social:
