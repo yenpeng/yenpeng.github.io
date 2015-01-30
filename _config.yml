@@ -9,11 +9,11 @@ permalink:	/blog/:title
 title:		Yen Peng
 tagline:	'Site'
 description:	'My experimental website.'
-url:		http://yenpeng.github.io/
+url:		https://yenpeng.github.io/
 
 author:
   name:		'Yen Peng'
-  url:		http://yenpeng.github.io/
+  url:		https://yenpeng.github.io/
 
 paginate:	5
 
@@ -44,4 +44,4 @@ menu:
     
 copyright:
   author:	Yen Peng
-  url:		http://yenpeng.github.io
+  url:		https://yenpeng.github.io
