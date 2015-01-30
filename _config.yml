@@ -44,3 +44,4 @@ menu:
 copyright:
   author:	Yen Peng
   url:		http://yenpeng.github.io
+  description: 'Made with Jekyll and [Thinny](https://github.com/camporez/Thinny/releases)'
