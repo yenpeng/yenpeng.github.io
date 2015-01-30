@@ -40,9 +40,12 @@ menu:
     
   - title:	About
     url:	/about
+
+  - title:  Sweat Hard
+    url:  /sweathard
     
 copyright:
   author:	Yen Peng
   url:		http://yenpeng.github.io
   type_title: Made with Jekyll and Thinny
-  type_url: https://github.com/camporez/Thinny/releases)
+  type_url: https://github.com/camporez/Thinny/releases
