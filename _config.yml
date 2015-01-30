@@ -18,8 +18,8 @@ author:
 paginate:	5
 
 # Custom vars
-icon:		/assets/images/icon.png
-cover:		/assets/images/eva.jpg
+icon:		/assets/images/yenpeng.jpg
+cover:		/assets/images/boat.jpg
 
 social:
   - icon:	twitter
@@ -27,8 +27,8 @@ social:
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
-    desc:	Fork me on github
+    url:	https://github.com/yenpeng
+    desc:	Visit me on github
 
   - icon:	googleplus-alt
     url:	https://google.com/+IanCamporezBrunelli
