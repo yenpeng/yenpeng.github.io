@@ -9,11 +9,11 @@ permalink:	/blog/:title
 title:		Yen Peng
 tagline:	'Site'
 description:	'My experimental website.'
-url:		https://www.facebook.com/iamyenpeng
+url:		http://yenpeng.github.io/
 
 author:
   name:		'Yen Peng'
-  url:		https://www.facebook.com/iamyenpeng
+  url:		http://yenpeng.github.io/
 
 paginate:	5
 
@@ -22,21 +22,18 @@ icon:		/assets/images/icon.png
 cover:		/assets/images/boat.jpg
 
 social:
-  - icon:	twitter
-    url:	https://twitter.com/iancamporez
-    desc:	Follow me on twitter
+  - icon:	/assets/images/fb.png
+    url:	https://www.facebook.com/iamyenpeng
+    desc:	Add me on Facebook
+
+  - icon: /assets/images/linkedin.png
+    url:  https://my.linkedin.com/in/yenpenglee
+    desc: View me on Linkedin
 
   - icon:	github
     url:	https://github.com/yenpeng
     desc:	Visit me on github
 
-  - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
-    desc:	Add me on google+
-
-  - icon:	feed
-    url:	http://camporez.com/atom.xml
-    desc:	Subscribe to my feed
     
 menu:
   - title:	Home
