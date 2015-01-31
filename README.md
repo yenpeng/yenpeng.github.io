@@ -7,10 +7,11 @@ After much fussing about and late night tweakings, here's [Yen Peng - Home of As
 
 
 ##Demo
-[![Preview image](/assets/images/icon.png)](http://yenpeng.github.io/)
+[![Preview image](https://raw.githubusercontent.com/yenpeng/yenpeng.github.io/master/assets/images/Demo.png)](http://yenpeng.github.io/)
+
 This is how my baby looks like. Still in early WIP stages. 
 
 
 ##More information
-Meanwhile, do have a look at my other social media links on my [website](http://yenpeng.github.io/).
+Meanwhile, do have a look at my other social media links on [yenpeng.github.io](http://yenpeng.github.io/).
 
