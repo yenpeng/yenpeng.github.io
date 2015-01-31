@@ -6,14 +6,25 @@ image: /media/2015-01-31-first-post-ever/cover.jpg
 video: false
 ---
 
-#This is the ice-breaking post  <em>#firstpostever</em>
+#This is the ice-breaking post
 
 
-Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
+Welcome to the <em>#firstpostever</em>, the pioneer to all the posts that would succeed this from here onwards. 
 
-{% include image.html url="/media/2014-02-26-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
-This new version of Thinny comes with mobile support and some bugfixes.
+This is basically a pet project kickstarted at a whim of curiosity, quickly turning into an odd burgeoning labour of love as I wade through the learning curve of setting up and editing my own website.
+
+
+I am a finance and accounting person with zero knowledge in IT and coding, trying my hand at something completely new to me. Whilst I had some prior experience dabbling in HTML during my active blogging years, the highly assistive interface in Blogspot does not come close to the nitty gritty of editing layouts and content in an **actual** text editor. 
+
+Jekyll, Markdown, _more advanced_ HTML... all Greek to me now, but with a dose of persistence I am sure they will too, become mother tongue  eventually.
+
+
+It has been a confusing and rewarding process thus far, and I am far from done. This baby's gonna need a lot of TLC, and I am taking my time (sweet long hours into the night!) in knocking things into shape, one commit at a time. With of course, a stash of code cheat sheets by the side and caffeine.
+
+
+{% include image.html url="/media/2015-01-31-first-post-ever/teachme.jpg" width="100%" description="That's right." %}
+
 
 ## Usage
 
@@ -112,6 +123,7 @@ Here is a `<table>` with all Thinny's versions:
 
 I have yet to decide on the direction of this website. 
 At the moment I am still focusing on learning up the tricks and tools in modifying the base template and putting up minor pieces of content.
+
 
 {% include image.html url="/media/2015-01-31-first-post-ever/babysteps.jpg" width="100%" description="Little steps, is all I'm saying. Check back for more updates." %}
 
