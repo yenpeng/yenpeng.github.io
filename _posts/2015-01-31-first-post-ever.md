@@ -6,7 +6,8 @@ image: /media/2015-01-31-first-post-ever/cover.jpg
 video: false
 ---
 
-#This is the ice-breaking post <em>#firstpost</em>
+#This is the ice-breaking post  <em>#firstpostever</em>
+
 
 Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
 
@@ -109,6 +110,10 @@ Here is a `<table>` with all Thinny's versions:
 
 > This is still a premature baby.
 
-I have yet to decide on the direction of this website. At the moment I am still focusing on learning up the tricks and tools in modifying the base template and putting up minor pieces of content.
+I have yet to decide on the direction of this website. 
+At the moment I am still focusing on learning up the tricks and tools in modifying the base template and putting up minor pieces of content.
 
-Little steps, is all I'm saying. Check back for more updates.
+{% include image.html url="/media/2015-01-31-first-post-ever/babysteps.jpg" width="100%" description="Little steps, is all I'm saying. Check back for more updates." %}
+
+
+
