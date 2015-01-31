@@ -1,18 +1,16 @@
-#Thinny - The Infinite's Nymphet
+#Yen Peng's Experimental Website
 
 ##About
-Thinny is a beautiful theme for [Jekyll](http://jekyllrb.com/).
+Created in the spur of a moment to learn what goes on behind a webpage, this has been a real challenging learning curve given my zero IT and coding background. 
 
-(if you're looking for the [Ghost](http://ghost.org) release of the theme, check [this page](https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra))
+After much fussing about and late night tweakings, here's [Yen Peng - Home of Aspirations](http://yenpeng.github.io/).
+
 
 ##Demo
-[![Preview image](https://f.cloud.github.com/assets/5755892/2002329/bdb5a052-85ed-11e3-8e00-a892910b6917.png)](http://camporez.com/)
-The above image is a preview of how the post header looks on Thinny.
+[![Preview image](/assets/images/icon.png)](http://yenpeng.github.io/)
+This is how my baby looks like. Still in early WIP stages. 
 
-A live demo is available [on my personal blog](http://camporez.com/).
 
 ##More information
-Read the blog post [here](http://camporez.com/blog/thinny-2/).
+Meanwhile, do have a look at my other social media links on my [website](http://yenpeng.github.io/).
 
-##Reporting issues
-You can report an issue or request a feature [here](http://github.com/camporez/camporez.github.io/issues) or on [twitter](http://twitter.com/iancamporez).
