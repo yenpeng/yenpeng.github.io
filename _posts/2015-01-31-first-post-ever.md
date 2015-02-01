@@ -14,7 +14,7 @@ Welcome to the <em>#firstpostever</em>, the pioneer to many posts to come.
 This is basically a pet project kickstarted at a whim of curiosity, quickly turning into an odd burgeoning labour of love as I wade through the learning curve of setting up and editing my own website.
 
 
-###Some background...
+###A little bit of background...
 
 I am a finance and accounting person with zero knowledge in IT and coding, trying my hand at something completely new to me. Whilst I had some prior experience dabbling in HTML during my active blogging years, the highly assistive interface in Blogspot and Wordpress does not come close to the nitty gritty of editing layouts and content in an **actual** text editor.
 
