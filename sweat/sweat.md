@@ -13,7 +13,7 @@ cover: /assets/images/sweat.jpg
 -----
 
 <div id="post-list">
-	{% for post in page.posts %}
+	{% for post in paginator.posts %}
 		<div>
 			<span class="post-date">{{ post.date | date_to_long_string }}</span>
 			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
