@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: Putting sweat into words as I progress through my fitness journey.
 cover: /assets/images/sweat.jpg
 ---
