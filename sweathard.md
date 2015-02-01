@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Putting sweat onto paper as I go forward in my fitness journey.
+title: Putting sweat into words as I progress in my fitness journey.
 ---
 
 <div class="message">
