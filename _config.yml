@@ -30,11 +30,11 @@ social:
     url:  https://my.linkedin.com/in/yenpenglee
     desc: View me on Linkedin
 
-- icon: instagram
+  - icon: instagram
     url:  http://instagram.com/iamyenpeng
     desc: Follow me on Instagram
 
-- icon: github
+  - icon: github
     url:  https://github.com/yenpeng
     desc: Visit me on Github
     
