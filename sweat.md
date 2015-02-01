@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Putting sweat into words as I progress through my fitness journey.
+cover: /assets/images/cover.jpg
 ---
 
 <div class="message">
