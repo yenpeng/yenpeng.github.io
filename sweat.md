@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Putting sweat into words as I progress through my fitness journey.
-cover: /assets/images/cover.jpg
+cover: /assets/images/sweat.jpg
 ---
 
 <div class="message">
@@ -12,6 +12,5 @@ cover: /assets/images/cover.jpg
 
 -----
 
-page.id: 2015-01-31-sample
 
 See you soon!
