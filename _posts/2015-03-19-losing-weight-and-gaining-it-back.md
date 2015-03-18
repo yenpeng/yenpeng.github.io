@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is food to you? - Part 2"
+title: "Losing weight and gaining it back"
 quote: Examining that crucial underlying reason denting your weight loss progression.
 image: /assets/images/pizza.jpg
 video: false
