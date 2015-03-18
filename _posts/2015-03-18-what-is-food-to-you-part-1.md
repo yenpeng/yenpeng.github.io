@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is food to you?"
+title: "What is food to you? - Part 1"
 quote: Examining that crucial underlying reason denting your weight loss progression
 image: /assets/images/carbonara.jpg
 video: false
