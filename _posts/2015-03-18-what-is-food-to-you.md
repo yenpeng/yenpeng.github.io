@@ -8,8 +8,8 @@ tags:
 ---
 
 In my pursuit of weight loss, I am constantly at battle with my hugest enemy: my perception towards food.
-
-
+<br>
+<br>
 I could have lost a lot of weight and boast a svelte figure in body-hugging tees, but I will always remain that fat kid in my head. 
 
 
