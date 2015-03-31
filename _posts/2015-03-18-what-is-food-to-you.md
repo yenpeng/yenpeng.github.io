@@ -8,7 +8,7 @@ tags:
 ---
 
 In my pursuit of weight loss, I am constantly at battle with my hugest enemy: 
-*My perception towards food.*
+**My perception towards food.**
 <br>
 <br>
 I could have lost a lot of weight and boast a svelte figure in body-hugging tees, but I will always remain that fat kid in my head. It all boils down to that fat kid mentality I have towards food, by far the biggest snag in losing and maintaining my weight.
@@ -20,17 +20,16 @@ The other obstacle i.e. irregular long hectic hours at work for weeks on end com
  **In my world, there are two kinds of food i.e. healthy and unhealthy.**
 <br>
 <br>
-*Characteristics:*
+**Characteristics:**
+<br>
 <br>
 <i>Foods in the healthy category</i>
-<br>
 Typically bland and boring. Far from satiating and leaves me hungry for (unhealthy) food. 
 Vegetables, fruits, whole grain stuff, yogurt, milk, nuts.
 I rarely get by the entire afternoon with a salad and more often than not will resort to snack bars by 5 pm.
 <br>
 <br>
 <i>Foods in the unhealthy category</i>  
-<br>
 Irresistible. Exciting. Leaves me craving for more.  
 Pizza, waffles, fettucine carbonara, kaya balls, curly fries, cendol, roti canai, bubble milk tea. The list is inexhaustive, being typically Malaysian.
 <br>
