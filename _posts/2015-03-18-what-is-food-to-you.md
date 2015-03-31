@@ -9,29 +9,35 @@ tags:
 
 In my pursuit of weight loss, I am constantly at battle with my hugest enemy: my perception towards food.
 
+
 I could have lost a lot of weight and boast a svelte figure in body-hugging tees, but I will always remain that fat kid in my head. 
+
 
 It all boils down to that fat kid mentality I have towards food, by far the biggest snag in losing and maintaining my weight.
 
+
 The other obstacle i.e. irregular long hectic hours at work for weeks on end comes very close to this too, but is usually mitigated by a longer gym session on that rare Sunday off. 
 
-Manageable, albeit a compromise nonetheless. You have to do what you can with what little  you have, especially time.
- 
-In my world, there are two kinds of food i.e. healthy and unhealthy. 
 
-Characteristics:
+Manageable, albeit a compromise nonetheless. You have to do what you can with what little  you have, especially time.
+
+ 
+**In my world, there are two kinds of food i.e. healthy and unhealthy.**
+
+
+*Characteristics:*
 Foods in the healthy category 
 Typically bland and boring. Far from satiating and leaves me hungry for (unhealthy) food. 
 Vegetables, fruits, whole grain stuff, yogurt, milk, nuts.
 I rarely get by the entire afternoon with a salad and more often than not will resort to snack bars by 5 pm.
 
-Foods in the unhealthy category
-Irresistible. Exciting. Leaves me craving for more.
+<i>Foods in the unhealthy category</i>  
+Irresistible. Exciting. Leaves me craving for more.  
 Pizza, waffles, fettucine carbonara, kaya balls, curly fries, cendol, roti canai, bubble milk tea. The list is inexhaustive, being typically Malaysian.
 
 The biggest issue here is not the greasiness or sugar-loaded these foods are. It is my inclination towards viewing these foods as source of comfort and reward that throws me in a perpetual loop of weight loss and gain.
 
-When I work long stressful hours consecutively for weeks or even months, I resort to taking out my frustration and dissatisfaction through these foods. They are my “happy foods”, that innocent little ice cream to pick me up on a dejected afternoon, the iced latte to get through the morning, the heavy lunches due to skipped breakfasts, the even heavier dinners to compensate for my unhappiness.
+<p>When I work long stressful hours consecutively for weeks or even months, I resort to taking out my frustration and dissatisfaction through these foods. They are my “happy foods”, that innocent little ice cream to pick me up on a dejected afternoon, the iced latte to get through the morning, the heavy lunches due to skipped breakfasts, the even heavier dinners to compensate for my unhappiness.</p>
 
 All innocent when consumed sparsely, they all combine to pack on pounds before I even know it. Or even before the projects at hand are wrapped up.
 
