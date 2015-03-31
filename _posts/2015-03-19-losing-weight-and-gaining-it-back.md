@@ -56,6 +56,7 @@ And of course, I annoyed the crap out of my family with my endless talk on nutri
 <br>
 Complete and total relapse. I have almost gone back to my pre-college fat days.
 <br>
+<br>
 I have unsightly folds in my tummy, my bat wings are worse off than before, even my face has gotten larger.
 <br>
 <br>
@@ -76,7 +77,6 @@ It only serves to show how complacent I have grown and how prideful I was in thi
 5. I have always hated working out anyway
 
 <br> 
-<br>
 **Introspection**
 <br>
 <br>
