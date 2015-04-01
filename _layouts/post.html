@@ -25,8 +25,8 @@ article: true
 </header>
 <div id="article">
 	{{ content }}
-
-{% if post.tags.size > 0 %}
+</div>
+<div id="tags"> {% if post.tags.size > 0 %}
             {% capture tags_content %} with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
             {% for post_tag in post.tags %}
                 {% for data_tag in site.data.tags %}
@@ -45,6 +45,7 @@ article: true
 
 <p id="post-meta">{{ tags_content }}</p>
 </div>
+
 {% for post in site.related_posts limit:1 %}
 <footer class="{% if post.dark %}dark{% else %}clean{% endif %}" style="background-image: url({% if post.image %}{{ post.image }}{% else %}{{ site.cover }}{% endif %});{% if post.background_position %} background-position: {{ post.background_position }};{% endif %}height: 75%; min-height: 500px;">
 	<div id="nav-icon" style="top: 25px;">
