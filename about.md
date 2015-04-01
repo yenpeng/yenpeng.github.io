@@ -5,9 +5,7 @@ cover: /assets/images/about.jpg
 ---
 
 <div class="message">
-  If we wait until we're ready, we'll be waiting for the rest of our lives.
-  <br>
-  - Lemony Snicket - 
+  If we wait until we're ready, we'll be waiting for the rest of our lives. 
 </div>
 
 ##I am Yen Peng##
@@ -17,7 +15,7 @@ By day, I work in a large global accounting firm in Malaysia as a financial advi
 By night, if not working, I am at the gym, reading, or meddling with this website from time to time.
 <br>
 <br>
-My interests include fitness, travelling, outdoors, financial modelling, arts and crafts, reading and surfing the internet in search of new / fun things to pick up. 
+My interests include fitness, travelling, karaoke, the great outdoors, arts and crafts, reading, financial modelling and surfing the internet in search of new / fun things to pick up. 
 <br>
 <br>
 {% include image.html url="/assets/images/profilephoto.jpg" width="100%" description="At Taman Negara." %}
@@ -42,6 +40,18 @@ It is somewhat akin to the nature of being human. After all, we are all work in 
 + Financial analysis<br>
 + Financial modelling<br>
 + Well versed in IFRS accounting standards<br>
+
+----------
+
+##Interests#
++ Hitting the gym and the cinemas<br>
++ Outdoors e.g. hiking, caving, etc.<br>
++ Playing around with Excel
++ And now, playing around with Markdown and HTML (for this website)<br>
++ Karaoke<br>
++ Reading (novels and the internet)
++ Travelling. My short term goal is to visit all the ASEAN countries.
++ Occasionally dabble in arts / crafts. DIY Christmas trees, cards, etc.
 
 ##Other Information##
 Sometimes I build excel models for leisure.<br>
