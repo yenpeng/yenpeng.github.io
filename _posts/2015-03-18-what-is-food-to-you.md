@@ -4,7 +4,7 @@ title: "Part 1: What is food to you?"
 quote: Examining that crucial underlying reason denting your weight loss progression
 image: /assets/images/carbonara.jpg
 video: false
-tags: <i class="icon-tags"></i> {% for tag in page.tags %} <a href="/tags/sweat" title="View posts tagged with &quot;sweat&quot;"><u>sweat</u></a>  {% if forloop.last != true %} {% endif %} {% endfor %}
+tags: [sweat]
 
 ---
 
