@@ -8,11 +8,18 @@ cover: /assets/images/about.jpg
   If we wait until we're ready, we'll be waiting for the rest of our lives. 
 </div>
 
-##Hi! I'm Yen Peng. I made a website for no reason, but you're welcome to look around!##
-I came across a story on Autostraddle.com (https://www.autostraddle.com/this-lesbian-made-her-own-dating-website-and-it-will-blow-you-away-378346/)
-
- By day, I work in a large global accounting firm in Malaysia as a financial advisory professional involved in business valuations, infrastructure financial feasibility studies and various advisory work. 
+#Hello there! I'm Yen Peng, and I made a website for no reason!#
 <br>
+I came across a story on Autostraddle [article link here](https://www.autostraddle.com/this-lesbian-made-her-own-dating-website-and-it-will-blow-you-away-378346/) about a woman who created her very own dating profile website, complete with testimonials from close friends and family on how amazing (and dateable) she is!
+<br>
+I found the idea really endearing, and immediately thought back to an old Github page I created about 2 years ago which was left to languish in inactivity ever since I moved to Melbourne. So I thought why not give it a shot at bringing it back to life!
+<br>
+#My story so far#
+<br>
+ I'm a 25-year old Malaysian currently based in Melbourne for the last 2 years. 
+
+#What do I do?#
+By day, I am a modeller, developing highly dynamic bespoke models tailored to different clients & purposes. 
 <br>
 By night, if not working, I am at the gym, reading, or meddling with this website from time to time.
 <br>
@@ -45,7 +52,7 @@ It is somewhat akin to the nature of being human. After all, we are all work in 
 
 ----------
 
-##Interests#
+##Interests##
 + Hitting the gym and the cinemas<br>
 + Outdoors e.g. hiking, caving, etc.<br>
 + Playing around with Excel
