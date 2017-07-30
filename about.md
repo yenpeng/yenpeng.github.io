@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me and What I Do
+title: About Me
 cover: /assets/images/about.jpg
 ---
 
@@ -8,8 +8,10 @@ cover: /assets/images/about.jpg
   If we wait until we're ready, we'll be waiting for the rest of our lives. 
 </div>
 
-##I am Yen Peng##
-By day, I work in a large global accounting firm in Malaysia as a financial advisory professional involved in business valuations, infrastructure financial feasibility studies and various advisory work. 
+##Hi! I'm Yen Peng. I made a website for no reason, but you're welcome to look around!##
+I came across a story on Autostraddle.com (https://www.autostraddle.com/this-lesbian-made-her-own-dating-website-and-it-will-blow-you-away-378346/)
+
+ By day, I work in a large global accounting firm in Malaysia as a financial advisory professional involved in business valuations, infrastructure financial feasibility studies and various advisory work. 
 <br>
 <br>
 By night, if not working, I am at the gym, reading, or meddling with this website from time to time.
