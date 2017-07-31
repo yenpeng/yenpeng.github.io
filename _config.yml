@@ -41,8 +41,8 @@ menu:
   - title:	About
     url:	/about
 
-  - title:  Something New
-    url:  /somethingnew
+  - title:  New
+    url:  /new
 
     
 copyright:
