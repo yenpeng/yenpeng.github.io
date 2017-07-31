@@ -63,69 +63,14 @@ Numbers and models are two of my life's passions. I've been doing this for 5 yea
 ## So what now?
 
 
-Whilst this website is not intended to be a dating profile, I'll be honest and admit that hopefully parts of it left an impression on you, of some of my more "dateable qualities". If you have found me interesting enough as a human to have coffee / tea with, drop a hello my way! 
+If you find me interesting enough as a human to have coffee / tea with, drop a hello my way! 
 
-Is this precocious? Somewhat. But it's more effort on me than my swiping right on you could ever amount to elsewhere in the digital world, and hopefully this makes the difference :)
+Is this precocious? Maybe. But it's more effort on me than my swiping right on you could ever amount to elsewhere in the digital world, and hopefully this makes the difference :)
 
 
 <div class="message">
   P/S: I'm still figuring out how to create a user comment form... Soon, I promise!
 </div>
 
-----------
 
-
-form:
-    name: contact
-
-    fields:
-        - name: name
-          label: Name
-          placeholder: Enter your name
-          autocomplete: on
-          type: text
-          validate:
-            required: true
-
-        - name: email
-          label: Email
-          placeholder: Enter your email address
-          type: email
-          validate:
-            required: true
-
-        - name: message
-          label: Message
-          placeholder: Enter your message
-          type: textarea
-          validate:
-            required: true
-
-        - name: g-recaptcha-response
-          label: Captcha
-          type: captcha
-          recaptcha_site_key: ENTER_YOUR_CAPTCHA_SITE_KEY
-          recaptcha_not_validated: 'Captcha not valid!'
-          validate:
-            required: true
-
-    buttons:
-        - type: submit
-          value: Submit
-        - type: reset
-          value: Reset
-
-    process:
-        - captcha:
-            recaptcha_secret: ENTER_YOUR_CAPTCHA_SECRET_KEY
-        - email:
-            subject: "[Site Contact Form] {{ form.value.name|e }}"
-            body: "{% include 'forms/data.html.twig' %}"
-        - save:
-            fileprefix: contact-
-            dateformat: Ymd-His-u
-            extension: txt
-            body: "{% include 'forms/data.txt.twig' %}"
-        - message: Thank you for getting in touch!
-        - display: thankyou
 
