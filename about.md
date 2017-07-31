@@ -37,6 +37,7 @@ I found the idea cute and endearing, and immediately thought back to an old Gith
 * Reading
 * Travelling 
 * Cleaning & housework (surprise surprise)
+* Concerts
 
 Sometimes,
 * I do some sporty / outdoor activities e.g. indoor rock-climbing, hiking
