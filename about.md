@@ -7,12 +7,12 @@ cover: /assets/images/uluru.jpg
 # Hello there! I'm Yen Peng. 
 
 
-### And I made a website for no reason!
+### Thanks for dropping by my personal website.
 
 
-I'm a 25-year old Malaysian based in Melbourne for the last 2 years.
+I'm a full-time financial & business modeller in a multinational advisory firm, solving and reviewing complex financing / business concepts for clients everyday. I am also an on-off budding code enthusiast, trying my hand at creating my own website through the help of the internet. And right now you're checking out my little experiment!
 
-Loving life, working hard, enjoying my immense freedom as a single professional living in a small cosmopolitan city. Every once in a while, I do new things that tickle my fancy, just like this website here!
+Born and bred a Malaysian, I've been based in Melbourne for the last 2 years. Amidst the crazy deadlines that accompany my job, I'm enjoying my immense freedom as a single professional living in a small cosmopolitan city.
 
 
 ----------
@@ -20,58 +20,45 @@ Loving life, working hard, enjoying my immense freedom as a single professional 
 
 ## What is this about?
 
-I came across a story on Autostraddle ([article link](https://www.autostraddle.com/this-lesbian-made-her-own-dating-website-and-it-will-blow-you-away-378346/)) about a woman who created her very own dating profile website, complete with testimonials from close friends and family on how amazing (and dateable) she is!
+Moving abroad to a brand new country where nobody knows you is scary. It's even scarier when you've led a sheltered life (i.e. living with your parents) all the while and shuddered at the thought of paying your own bills. Even after a few months when you think you have adapted to this foreign soil, you will still come across oddities that catch you offguard, or wrestle with sudden bouts of loneliness as you form new friendships in this new home of yours.
 
+The experience abroad has been a tremendous eye-opener, and I've been incredibly lucky to have such a great opportunity handed to me this early in life. As I navigate through life in a brand new country, I've assumed new layers of identities creating intersectionalities within my being, I've faced questions on my existing identities through the eyes of new people who may not necessarily understand me. 
 
-I found the idea cute and endearing, and immediately thought back to an old Github page I created years ago which was left to languish in inactivity after a bout of syntax frustrations and lack of grit. This time I thought, why not give it a shot at bringing it back to life!
+I'm keen to explore how displacement simultaneously created a zeal for life and a void in me. Living abroad has pulled the adventurous spirit out of me and into the world, it was as if I had swallowed my own key of independence all this time. Notwithstanding the newfound yolo mojo, as I search and search to belong in this new country, I find that the same slow yearning still hums underneath, a reminder that sometimes the things you look for are not found by simply moving around. I hope to explore some of these "oddities" as I wrangle my way through syntax frustrations - this is after all, a website project first and foremost, second as a blog.
 
 
 ----------
 
 
-## Interests
+## A bit about myself
+
+I really like:
 * Hitting the Crossfit gym 
 * The cinemas
 * Karaoke (off-key, mostly)
 * Making my apartment look pretty
 * Reading
 * Travelling 
-* Cleaning & housework (surprise surprise)
 * Concerts
+* Coffee (average 3 cups a day)
 
 Sometimes,
 * I do some sporty / outdoor activities e.g. indoor rock-climbing, hiking
 * Dabble in arts / crafts 
 
 And also,
-* I used to do a lot of jigsaw puzzles, cuz I'm patient like that
+* I used to do a lot of jigsaw puzzles, yes I'm patient like that
 
 
 ----------
 
 
-## What do I do?
-
-By day, I am a modeller, developing highly dynamic bespoke models tailored to different clients & purposes. And no, my type of modelling does not belong in the pages of a magazine, but rather nestled and nurtured in the exciting sheets of Excel. I also review highly complex models built by other people, usually banks, and tell them where things can be improved.
+## What inspired this website?
 
 
-Numbers and models are two of my life's passions. I've been doing this for 5 years, and I love what I do! Hours are insane sometimes, and people think I'm crazy to be pulling endless late nights during the peak months, but I suppose everyone has their own brand of fun.
+I came across a story on Autostraddle ([article link here](https://www.autostraddle.com/this-lesbian-made-her-own-dating-website-and-it-will-blow-you-away-378346/)) about a woman who created her very own dating profile website, complete with testimonials from close friends and family on how amazing she is. This was simply too cute, and made me think of what other purpose a personal website could fulfill apart from the default professional resume webpage most creatives have.
 
+
+As I try new things in life, I'll post them up here too!
 
 ----------
-
-
-## So what now?
-
-
-If you find me interesting enough as a human to have coffee / tea with, drop a hello my way! 
-
-Is this precocious? Maybe. But it's more effort on me than my swiping right on you could ever amount to elsewhere in the digital world, and hopefully this makes the difference :)
-
-
-<div class="message">
-  P/S: I'm still figuring out how to create a user comment form... Soon, I promise!
-</div>
-
-
-
