@@ -2,7 +2,7 @@
 layout: post
 title: "What's in a name?"
 quote: Is it so hard to pronounce "Yen Peng"?
-image: /media/2017-10-16-what's-in-a-name/cover.jpg
+image: /media/2017-10-16-whats-in-a-name/cover.jpg
 video: false
 
 ---
