@@ -2,7 +2,7 @@
 layout: post
 title: "What's in a name?"
 quote: Is it so hard to pronounce "Yen Peng"?
-image: /media/2017-10-16-what's-in-a-name/vancouver.jpg
+image: /media/2017-10-16-what's-in-a-name/cover.jpg
 video: false
 
 ---
@@ -19,7 +19,7 @@ People ask for my name, because within a split second I have to decide on what v
 * Lee Yen Peng
 * a host of other nicknames which are too embarassing
 
-It's an an MCQ test I face on a daily basis, with no right or wrong answer given the outcome is solely based on my judgment on how likely I'll see that person again. 
+It's an MCQ test I face on a daily basis, with no right or wrong answer given the outcome is solely based on my judgment on how likely I'll see that person again. 
 
 My preferred name is Yen Peng. But apparently this is too hard for a lot of people.
 
