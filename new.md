@@ -18,7 +18,7 @@ I've been labelled as intense, "very out there" and highly resilient. I've been 
 Whatever the words are, I do love trying something new from time to time. I'll use this experimental blog to keep track of my experimental gigs, be it fleeting, adrenaline-filled or just downright awkward. I'm sure it's mostly awkward.
 
 
-![Smile, I'm strapped to a stranger](/assets/images/skydive.png)
+![](/assets/images/skydive.png) "Smile, I'm strapped to a stranger"
 
 -----
 
