@@ -19,13 +19,15 @@ People ask for my name, because it's a mini MCQ test where I instantly decide on
 
 Yen Peng is the right answer, but somehow it's too hard for some people. So Yen it is, especially for takeaway coffees and bars. Then as I get to know a person better there comes the awkward conversation to start *getting* them to call me Yen Peng, it goes a little like this...
 
+-----
+
 **Me:** Hey uh, by the way I usually go by Yen Peng.
 
 **Them:** Oh I thought you're Yen!
 
-**Me:** Yeah that's one half of my first name ....
+**Me:** Yeah that's one half of my name ....
 
-** Them:** *(...forgets Peng anyway...)*
+**Them:** *(...forgets anyway...)*
 
 **Me:** That's Yen for Japanese currency, Peng for pingpong (no, not a typo)...
 
@@ -33,9 +35,10 @@ Yen Peng is the right answer, but somehow it's too hard for some people. So Yen 
 
 **Them:** *(...forgets it anyway...)*
 
+-----
+
 ![](/media/2017-10-16-whats-in-a-name/improvement.jpg)
 
-"Seriously guys..."
 
 -----
 [Go back to homepage](http://yenpeng.github.io/)

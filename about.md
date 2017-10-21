@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-cover: /assets/images/vancouver.jpg
+cover: /assets/images/aboutme.jpg
 ---
 
 # Hello there! I'm Yen Peng. 
