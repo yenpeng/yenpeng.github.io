@@ -25,18 +25,17 @@ Yen Peng is the right answer, but somehow it's too hard for some people. So Yen 
 
 **Me:** Yeah that's one half of my first name ....
 
-** Them:** *(forgets Peng anyway...)*
-
-Sometimes I try to make life easier by coming up with a hook:
+** Them:** *(...forgets Peng anyway...)*
 
 **Me:** That's Yen for Japanese currency, Peng for pingpong (no, not a typo)...
 
 **Them:** *(bemused)* I like it! 
 
-**Them:** *(forgets it anyway...)*
+**Them:** *(...forgets it anyway...)*
 
-![](/media/2017-10-16-whats-in-a-name/improvement.jpg) "Seriously guys..."
+![](/media/2017-10-16-whats-in-a-name/improvement.jpg)
 
+"Seriously guys..."
 
 -----
 [Go back to homepage](http://yenpeng.github.io/)
