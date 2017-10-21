@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What's in a name?"
-quote: Is it so hard to pronounce "Yen Peng"?
+title: "What's in a name"
+quote: Is my name that hard?
 image: /media/2017-10-16-whats-in-a-name/cover.jpg
 video: false
 
@@ -33,7 +33,7 @@ Yen Peng is the right answer, but somehow it's too hard for some people. So Yen 
 
 **Them:** *(bemused)* I like it! 
 
-**Them:** *(...forgets it anyway...)*
+**Them:** *(...forgets anyway...)*
 
 -----
 
