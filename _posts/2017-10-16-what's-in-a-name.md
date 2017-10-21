@@ -6,24 +6,31 @@ image: /media/2017-10-16-whats-in-a-name/cover.jpg
 video: false
 
 ---
-# I dread it when...
+# The fun begins when...
 
-People ask for my name, because within a split second I have to decide on what variant of my name I should let them call me by:
+People ask for my name, because it's a mini MCQ test where I instantly decide on the following name variants best suit the occasion:
 
 * Yen Peng
 * Yen
-* YP
-* YPL
-* Peng
-* Yen Peng Lee
-* Lee Yen Peng
-* a host of other nicknames which are too embarassing
+* YP / YPL
+* All of the above
+* Neither of the above - I'm Britney bitch
 
-It's an MCQ test I face on a daily basis, with no right or wrong answer given the outcome is solely based on my judgment on how likely I'll see that person again. 
 
-My preferred name is Yen Peng. But apparently this is too hard for a lot of people.
+Yen Peng is the right answer, but somehow it's too hard for some people. So Yen it is, especially for takeaway coffees and bars. Then as I get to know a person better there comes the awkward conversation to start *getting* them to call me Yen Peng, it goes a little like this...
 
-If it's just a name for takeaway coffee, Yen is sweet and simple. Even at bars and parties, I go by Yen just because it's just too loud for any ear to fully catch anything else. 
+**Me:** Hey uh, by the way I usually go by Yen Peng.
+**Them:** Oh I thought you're Yen!
+**Me:** Yeah that's one half of my first name ....
+** Them:** *(forgets Peng anyway...)*
+
+Sometimes I try to make life easier by coming up with a hook:
+
+**Me:** Hi I'm Yen Peng! Yen for Japanese currency, Peng for pingpong (no, not a typo)...
+**Them:** *(bemused)* I like it! 
+**Them:** *(forgets it anyway...)*
+
+And so it goes.... 
 
 
 -----
