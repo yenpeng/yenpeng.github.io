@@ -29,7 +29,7 @@ Yen Peng is the right answer, but somehow it's too hard for some people. So Yen 
 
 **Them:** *(...forgets anyway...)*
 
-**Me:** That's Yen for Japanese currency, Peng for pingpong (no, not a typo)...
+**Me:** That's Yen for Japanese currency, Peng for pingpong.
 
 **Them:** *(bemused)* I like it! 
 
