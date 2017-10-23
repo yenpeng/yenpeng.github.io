@@ -7,8 +7,8 @@ permalink:	/blog/:title
 
 # Setup
 title:		Yen Peng
-tagline:	'Home of Aspirations'
-description:	'You have arrived at my experimental website.'
+tagline:	'Random words & pictures'
+description:	"Putting some code together to see what happens"
 url:		http://yenpeng.github.io/
 
 author:
